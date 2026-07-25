@@ -55,7 +55,7 @@ Se dice que dentro de la mina existe minerales mas extraños que el mismo mitril
 ---
 ## Negocio
 
-- **Negocio:** [[Gremio Minero]]
+- **Negocio:** [[Mina cercana]]
 - Cree que el que vive en al casa de la fortuna, solo es un loco.
 
 ---

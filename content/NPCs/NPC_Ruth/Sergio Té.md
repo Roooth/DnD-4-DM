@@ -59,7 +59,7 @@ Quizá en un futuro publicar anónimamente un libro con chistes hilarantes (no l
 ---
 ## Negocio
 
-- **Negocio:** No tiene uno pero trabaja para [[El gobierno]]
+- **Negocio:** No tiene uno pero trabaja para [[El gobierno]] 
 
 ---
 ## Misiones 

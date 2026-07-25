@@ -74,7 +74,7 @@ Convertirse en una periodista reconocida y publicar una noticia capaz de cambiar
 ---
 ## Negocio
 
-- **Negocio:** Vende su famoso periódico "La NoveDossa" 
+- **Negocio:** Vende su famoso periódico "[[La NoveDossa]]" 
 
 ---
 ## Misiones 

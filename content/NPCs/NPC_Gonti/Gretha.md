@@ -65,7 +65,7 @@ Convertir su taberna en un restaurante reconocido, un lugar al que la gente viaj
 ---
 ## Negocio
 
-- **Negocio:** Tiene su taberna
+- **Negocio:** Tiene su [[taberna sin nombre]]
 - **Inventario:** Los [[Precios de Taberna]] están bajo la regulación de [[El gobierno]]
 
 ---

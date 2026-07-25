@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: DnD 4 DM
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Cinzel
+      body: Crimson Text
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#F3EBDD"        # pergamino claro
+        lightgray: "#D8CDB8"    # papel envejecido
+        gray: "#A39478"         # tinta desgastada
+        darkgray: "#4A4035"     # texto principal
+        dark: "#241C15"         # títulos fuertes
+        secondary: "#6B4F2A"    # marrón cuero / vínculos
+        tertiary: "#B08D3C"     # dorado antiguo
+        highlight: "rgba(176, 141, 60, 0.18)"
+        textHighlight: "#D4AF3788"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#151311"        # fondo noche
+        lightgray: "#302A22"    # paneles oscuros
+        gray: "#75664F"         # detalles apagados
+        darkgray: "#D9CEB8"     # texto pergamino
+        dark: "#F3E6C8"         # títulos claros
+        secondary: "#A67C35"    # oro viejo
+        tertiary: "#C9A44D"     # magia dorada
+        highlight: "rgba(201, 164, 77, 0.18)"
+        textHighlight: "#C9A44D88"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -144,6 +144,8 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: "Índice"
     layout:
       position: left
       priority: 50
@@ -215,8 +217,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        La Campaña: https://www.canva.com/design/DAHNopkOePQ/Xpgpa0WYE_6Jmu3-8KiMWA  
+        Sección amarilla: https://canva.link/0lrjc5n6u147o4o 
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

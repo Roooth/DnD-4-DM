@@ -56,7 +56,7 @@ Lograr mapear las cuevas, mas profundas, del pueblo, porque nadie logra explorar
 ---
 ## Negocio
 
-- **Negocio:** Tiene trabajo en el [[Gremio Minero]]
+- **Negocio:** Tiene trabajo en [[Mina cercana]]
 
 
 ---
